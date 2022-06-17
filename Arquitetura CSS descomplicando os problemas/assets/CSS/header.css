@@ -1,0 +1,35 @@
+.l__header {
+    align-items: center;
+    background: #f9f9f9;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 30px;
+}
+
+.l__menu__list {
+    display: flex;
+}
+
+.l__menu__item {
+    list-style: none;
+}
+
+.l__menu__item :last-child .l__menu__link {
+    margin-right: 0;
+}
+
+.l__menu__link {
+    color: #808080;
+    margin-right: 15px;
+    text-decoration: none;
+    text-transform: lowercase;
+}
+
+.l__menu__link .ativo {
+    color: #333;
+    font-weight: bold;
+}
+
+.l__menu__link:hover {
+    text-decoration: underline;
+}

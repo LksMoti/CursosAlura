@@ -1,0 +1,118 @@
+/*header*/
+
+.cabecalhoPrincipal .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cabecalhoPrincipal-nav {
+    display: flex;
+}
+
+
+/*footer*/
+
+.rodapePrincipal-patrocinadores .container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.rodapePrincipal-patrocinadores-list {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 70%;
+}
+
+.rodapePrincipal-contatoForm-fieldset {
+    display: flex;
+    width: 25%;
+}
+
+.rodapePrincipal-navMap-list {
+    display: flex;
+    /* flex-direction: column;
+    flex-wrap: wrap; */
+    flex-flow: column wrap;
+    height: 250px;
+}
+
+.conteudoPrincipal-cursos {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.conteudoPrincipal-cursos-link {
+    width: 23%;
+    /* margin: 1%; */
+}
+
+.videoSobre .container {
+    display: flex;
+}
+
+.videoSobre-sobre {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    flex-grow: 1;
+}
+
+.videoSobre-sobre-list {
+    flex-grow: 1;
+}
+
+.videoSobre-video {
+    flex-grow: 1;
+}
+
+.cabecalhoPrincipal-nav-link-app {
+    order: 0;
+}
+
+
+/* .conteudoPrincipal-cursos-links:nth-child(4n) {
+    margin-right: 0;
+}
+
+.conteudoPrincipal-cursos-links:nth-child(4n+1) {
+    margin-left: 0;
+} */
+
+
+/*vesão mobile*/
+
+@media(max-width: 768px) {
+    .cabecalhoPrincipal .container {
+        flex-direction: column;
+        align-items: initial;
+        text-align: center;
+    }
+    .cabecalhoPrincipal-nav {
+        flex-direction: column;
+    }
+    .conteudoPrincipal-cursos-link {
+        width: 100%;
+    }
+    .rodapePrincipal-navMap-list {
+        height: auto;
+    }
+    .rodapePrincipal-patrocinadores .container {
+        flex-direction: column;
+        align-items: center;
+    }
+    .rodapePrincipal-patrocinadores-list {
+        width: 100%;
+    }
+    .videoSobre .container {
+        flex-direction: column;
+    }
+    .videoSobre-video {
+        margin: 0 auto;
+    }
+    .cabecalhoPrincipal-nav-link-app {
+        order: -1;
+    }
+}

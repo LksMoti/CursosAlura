@@ -1,0 +1,18 @@
+.banner {
+    position: relative;
+}
+
+.banner__img {
+    width: 100%;
+    height: calc(100vh - 72px);
+}
+
+.banner__title {
+    position: absolute;
+    font-size: 45px;
+    color: aliceblue;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.75);
+    text-align: center;
+    width: 100%;
+    top: 50%;
+}

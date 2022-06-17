@@ -1,0 +1,15 @@
+C:\Users\Lucas Motizuki\Desktop\Curso alura\C# iniciando com a linguagem CSHARP iniciando com a linguagem\APRENDENDOCSHARP\1-Ola Mundo\bin\Debug\net6.0\1-Ola Mundo.exe
+C:\Users\Lucas Motizuki\Desktop\Curso alura\C# iniciando com a linguagem CSHARP iniciando com a linguagem\APRENDENDOCSHARP\1-Ola Mundo\bin\Debug\net6.0\1-Ola Mundo.deps.json
+C:\Users\Lucas Motizuki\Desktop\Curso alura\C# iniciando com a linguagem CSHARP iniciando com a linguagem\APRENDENDOCSHARP\1-Ola Mundo\bin\Debug\net6.0\1-Ola Mundo.runtimeconfig.json
+C:\Users\Lucas Motizuki\Desktop\Curso alura\C# iniciando com a linguagem CSHARP iniciando com a linguagem\APRENDENDOCSHARP\1-Ola Mundo\bin\Debug\net6.0\1-Ola Mundo.dll
+C:\Users\Lucas Motizuki\Desktop\Curso alura\C# iniciando com a linguagem CSHARP iniciando com a linguagem\APRENDENDOCSHARP\1-Ola Mundo\bin\Debug\net6.0\1-Ola Mundo.pdb
+C:\Users\Lucas Motizuki\Desktop\Curso alura\C# iniciando com a linguagem CSHARP iniciando com a linguagem\APRENDENDOCSHARP\1-Ola Mundo\obj\Debug\net6.0\1-Ola Mundo.csproj.AssemblyReference.cache
+C:\Users\Lucas Motizuki\Desktop\Curso alura\C# iniciando com a linguagem CSHARP iniciando com a linguagem\APRENDENDOCSHARP\1-Ola Mundo\obj\Debug\net6.0\1-Ola Mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Motizuki\Desktop\Curso alura\C# iniciando com a linguagem CSHARP iniciando com a linguagem\APRENDENDOCSHARP\1-Ola Mundo\obj\Debug\net6.0\1-Ola Mundo.AssemblyInfoInputs.cache
+C:\Users\Lucas Motizuki\Desktop\Curso alura\C# iniciando com a linguagem CSHARP iniciando com a linguagem\APRENDENDOCSHARP\1-Ola Mundo\obj\Debug\net6.0\1-Ola Mundo.AssemblyInfo.cs
+C:\Users\Lucas Motizuki\Desktop\Curso alura\C# iniciando com a linguagem CSHARP iniciando com a linguagem\APRENDENDOCSHARP\1-Ola Mundo\obj\Debug\net6.0\1-Ola Mundo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Motizuki\Desktop\Curso alura\C# iniciando com a linguagem CSHARP iniciando com a linguagem\APRENDENDOCSHARP\1-Ola Mundo\obj\Debug\net6.0\1-Ola Mundo.dll
+C:\Users\Lucas Motizuki\Desktop\Curso alura\C# iniciando com a linguagem CSHARP iniciando com a linguagem\APRENDENDOCSHARP\1-Ola Mundo\obj\Debug\net6.0\refint\1-Ola Mundo.dll
+C:\Users\Lucas Motizuki\Desktop\Curso alura\C# iniciando com a linguagem CSHARP iniciando com a linguagem\APRENDENDOCSHARP\1-Ola Mundo\obj\Debug\net6.0\1-Ola Mundo.pdb
+C:\Users\Lucas Motizuki\Desktop\Curso alura\C# iniciando com a linguagem CSHARP iniciando com a linguagem\APRENDENDOCSHARP\1-Ola Mundo\obj\Debug\net6.0\1-Ola Mundo.genruntimeconfig.cache
+C:\Users\Lucas Motizuki\Desktop\Curso alura\C# iniciando com a linguagem CSHARP iniciando com a linguagem\APRENDENDOCSHARP\1-Ola Mundo\obj\Debug\net6.0\ref\1-Ola Mundo.dll

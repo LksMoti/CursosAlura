@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="recursos/reset.css">
+    <link rel="stylesheet" type="text/css" href="../HTML5 e CSS3 parte 2 posicionamento, listas e navegação/style.css">
+    <title>Segunda pagina alura</title>
+</head>
+
+<body>
+    <header>
+        <div class="box">
+            <h1><img src="../HTML5 e CSS3 parte 2 posicionamento, listas e navegação/recursos/logo.png" alt=""></h1>
+            <nav>
+                <ul>
+                    <li><a href="">home</a></li>
+                    <li><a href="">produtos</a></li>
+                    <li><a href="">contato</a> </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <form>
+            <label for="nomesobrenome">Nome e Sobrenome</label>
+            <input type="text" id="al-name" required>
+
+            <label for="temail">email</label>
+            <input type="email" id="al-email">
+
+            <label for="telefone">telefone/celular</label>
+            <input type="tel" id="al-telefone" required placeholder="(XX) XXXXX-XXXX">
+
+            <label for="Mensagem-textarea">Mensagem</label>
+            <textarea name="Mensagem" id="Mensagem" cols="30" rows="10"></textarea>
+
+            <fieldset>
+                <legend>>Como prefere o nosso contato?</legend>
+                <label for="radio-email"> Email</label>
+                <input type="radio" name="contato" value="email" id="radio-email">
+
+                <label for="radio-telefone">Telefone/celular</label>
+                <input type="radio" name="contato" value="email" id="radio-telefone">
+
+                <label for="radio-whatsapp"> Whatsapp</label>
+                <input type="radio" name="contato" value="email" id="radio-whatsapp" checked>
+            </fieldset>
+            <label><input type="checkbox"> gostaria de receber nossas novidades por email?</label>
+
+
+            <fieldset>
+                <select>
+                    <option value="">manha</option>
+                    <option value="">tarde </option>
+                    <option value="">noite</option>
+                    <option value="">madrugada</option>
+                </select>
+            </fieldset>
+
+
+            <input type="submit" value="enviar formulário">
+
+        </form>
+    </main>
+    <footer class="al-footer">
+        <img src="../HTML5 e CSS3 parte 2 posicionamento, listas e navegação/recursos/logo-branco.png">
+        <p>
+            &copy; Copyright Barbearia Alura - 2022
+        </p>
+    </footer>
+</body>
+
+</html>
